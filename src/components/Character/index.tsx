@@ -18,5 +18,3 @@ export const Character = ({x, y}: Props) => {
     </C.Container>
   )
 }
-
-export default Character
